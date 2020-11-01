@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/devnoob-flowers/react-todo-propject.git/static/css/main.c434e2a2.chunk.css",
+    "main.js": "/devnoob-flowers/react-todo-propject.git/static/js/main.7b3b6512.chunk.js",
+    "main.js.map": "/devnoob-flowers/react-todo-propject.git/static/js/main.7b3b6512.chunk.js.map",
+    "runtime-main.js": "/devnoob-flowers/react-todo-propject.git/static/js/runtime-main.76fde42f.js",
+    "runtime-main.js.map": "/devnoob-flowers/react-todo-propject.git/static/js/runtime-main.76fde42f.js.map",
+    "static/js/2.95110667.chunk.js": "/devnoob-flowers/react-todo-propject.git/static/js/2.95110667.chunk.js",
+    "static/js/2.95110667.chunk.js.map": "/devnoob-flowers/react-todo-propject.git/static/js/2.95110667.chunk.js.map",
+    "static/js/3.ca9c29e0.chunk.js": "/devnoob-flowers/react-todo-propject.git/static/js/3.ca9c29e0.chunk.js",
+    "static/js/3.ca9c29e0.chunk.js.map": "/devnoob-flowers/react-todo-propject.git/static/js/3.ca9c29e0.chunk.js.map",
+    "index.html": "/devnoob-flowers/react-todo-propject.git/index.html",
+    "static/css/main.c434e2a2.chunk.css.map": "/devnoob-flowers/react-todo-propject.git/static/css/main.c434e2a2.chunk.css.map",
+    "static/js/2.95110667.chunk.js.LICENSE.txt": "/devnoob-flowers/react-todo-propject.git/static/js/2.95110667.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76fde42f.js",
+    "static/js/2.95110667.chunk.js",
+    "static/css/main.c434e2a2.chunk.css",
+    "static/js/main.7b3b6512.chunk.js"
+  ]
+}
